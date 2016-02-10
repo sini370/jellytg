@@ -230,7 +230,7 @@ function create_config( )
     sudo_users = {112274576,(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
+    about_text = [[ 
   Channel: @telelife_ch
   Sudo (Admin): @mrlife
   
